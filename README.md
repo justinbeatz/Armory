@@ -4,6 +4,7 @@ The 802.11 Hacking Repo.
 ##Books:
 - [CWSP](https://kat.cr/cwsp-official-study-guide-exam-pw0-204-sybex-pdf-stormrg-t8734250.html)
 - [Professional CUDA C Programming](http://it-ebooks.info/book/4934/)
+- [WiFi Toys](http://sirpabs.ilahas.com/Computing/Wi-Fi%20Toys%20-%2015%20Cool%20Wireless%20Projects%20For%20Home,%20Office,%20And%20Entertainment%20%282004%29.pdf)
 
 ##Papers
 - [WPA Too!](https://www.defcon.org/images/defcon-18/dc-18-presentations/Ahmad/DEFCON-18-Ahmad-WPA-Too-WP.pdf)
@@ -29,6 +30,7 @@ Networks](https://deepaknadig.com/wp-content/uploads/2015/04/Technical_Report1.p
 - [backtrack-4-cuda-guide](https://www.offensive-security.com/documentation/backtrack-4-cuda-guide.pdf)
 - [known wireless attacks](https://community.jisc.ac.uk/system/files/222/known-wireless-attacks.pdf)
 - [The Art of casual WiFi hacking](http://www.infosecwriter.com/pdf/WiFi%20hacking%20article.pdf)
+- [Channel Switch and Quiet attack](https://www.kargl.net/docs/mypapers/2009-10-lcn2009.pdf)
 - [Malware Injection in Wireless Networks](https://facwiki.cs.byu.edu/cs665/images/8/8c/06662732.pdf)
 - [802.11 Jamming Using Consumer WiFi Cards](http://www.hardywijaya.com/wp-content/uploads/2014/03/WIFI_conference_paper.pdf)
 - [Null Data Frames in IEEE 802.11 based WLANs](http://www.cs.odu.edu/~nadeem/classes/cs795-WNS-S13/papers/sec-002.pdf)
@@ -40,17 +42,10 @@ Networks](https://deepaknadig.com/wp-content/uploads/2015/04/Technical_Report1.p
 - [WPA/WPA2 Password Security Testing using Graphics Processing Units](http://www.jmeds.eu/index.php/jmeds/article/viewFile/WPA_WPA2_Password_Security_Testing_using_Graphics_Processing_Units/jmeds_5_4_a_7)
 - [Breaking Encryptions In The Cloud](https://media.blackhat.com/bh-dc-11/Roth/BlackHat_DC_2011_Roth_Breaking%20encryptions-Slides.pdf)
 - [Virtual WLAN: Going beyond Virtual Access Points](http://journal.ub.tu-berlin.de/eceasst/article/viewFile/226/221)
+- [Offline bruteforce attack on WiFi Protected Setup](https://passwordscon.org/wp-content/uploads/2014/08/Dominique_Bongard.pdf)
 - [WPA password cracking Parallel Processing on the Cell BE](http://projekter.aau.dk/projekter/files/17901417/WPA_password_cracking__Parallel_processing_on_the_Cell_BE_-goup1045.pdf)
 - [A Practical Approach to Distributed WPA/WPA2 Cracking with CUDA](https://www.sunjaydhama.com/projects/DWPACLEC2/Report.pdf)
-
-###WIDS:
 - [U.S. Government 802.11 WIPS Profile Protection](https://www.niap-ccevs.org/pp/draft_pps/archived/U.S.%20Government%20IEEE%20802.11%20Wireless%20Intrusion%20Detection%20PP%20for%20Medium%20Robustness%20Environments%20v.0.74.pdf)
-
-###WPS:
-- [Offline bruteforce attack on WiFi Protected Setup](https://passwordscon.org/wp-content/uploads/2014/08/Dominique_Bongard.pdf)
-
-###DOS:
-- [Channel Switch and Quiet attack](https://www.kargl.net/docs/mypapers/2009-10-lcn2009.pdf)
 
 ##Tells:
 - [WPA/WPA2 PSK Crackq](https://hashcrack.org/crackq/page?n=wpa)
@@ -63,7 +58,6 @@ Networks](https://deepaknadig.com/wp-content/uploads/2015/04/Technical_Report1.p
 
 ##Tools:
 
-###Misc
 - [Boss](https://github.com/GuerrillaWarfare/Boss)
 - [Agent](https://github.com/GuerrillaWarfare/Agent)
 - [Dealer](https://github.com/GuerrillaWarfare/Dealer)
@@ -73,17 +67,9 @@ Networks](https://deepaknadig.com/wp-content/uploads/2015/04/Technical_Report1.p
 - [80211ping](https://github.com/tillwo/80211ping)
 - [Peap-Karma](https://github.com/phikshun/Peap-Karma)
 - [wifi-arsenal](https://github.com/0x90/wifi-arsenal)
-
-###DOS:
 - [mdk3-v6](http://aspj.aircrack-ng.org/mdk3-v6.tar.bz2)
-
-###Recon
 - [Glimpse](https://github.com/GuerrillaWarfare/Glimpse)
-
-###Malware:
 - [wi-door](https://github.com/Vivek-Ramachandran/wi-door)
-
-###WPS:
 - [bully](https://github.com/Lrs121/bully)
 - [Pummel](https://github.com/GuerrillaWarfare/Pummel)
 - [WPSIG](https://github.com/0x90/WPSIG)
@@ -91,24 +77,16 @@ Networks](https://deepaknadig.com/wp-content/uploads/2015/04/Technical_Report1.p
 - [reaver-wps](https://github.com/gabrielrcouto/reaver-wps)
 - [wps-scripts](https://github.com/0x90/wps-scripts)
 - [reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x)
-
-###WPA2:
 - [mana](https://github.com/sensepost/mana)
 - [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
 - [hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe)
 - [dot11decrypt](https://github.com/mfontanini/dot11decrypt)
 - [Poser](https://github.com/GuerrillaWarfare/Poser)
 - [coWPAtty](http://www.willhackforsushi.com/?page_id=50)
-
-###OPN:
 - [aggr-inject](https://github.com/rpp0/aggr-inject)
-
-###EAP:
 - [Asleap](http://www.willhackforsushi.com/?page_id=41)
 - [eapeak](https://github.com/securestate/eapeak)
 - [eapmd5pass](http://www.willhackforsushi.com/?page_id=67)
-
-###Fuzzers:
 - [wifuzz](https://github.com/0x90/wifuzz)
 - [wifuzzit](https://github.com/0xd012/wifuzzit)
 
